@@ -1,4 +1,4 @@
-Probabilistic Forecasting of Household Loads 
+# Probabilistic Forecasting of Household Loads 
 
 This repository was prepared and used for the article "Frederik vom Scheidt, Xinyuan Dong, Andrea Bartos, Philipp Staudt, and Christof Weinhardt. 2021. Probabilistic Forecasting of Household Loads: Effects of Distributed Energy Technologies on Forecast Quality". 
 It contains the code and input data for the article's forecasting case study.
